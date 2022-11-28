@@ -48,7 +48,7 @@ You can also bring the commits over to the second_branch without commiting them 
     ```
         git checkout wrong_branch
 
-        git reset --hard wrong_brach_commit_hash
+        git reset --hard commit_hash_to_reset_to
     ```
     There are 3 types of ```git reset``` we have
 
